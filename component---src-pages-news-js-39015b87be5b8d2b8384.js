@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{141:function(e,n,a){"use strict";a.r(n);var t=a(0),l=a.n(t),u=a(156),c=a(167),r=a(165),o=a(168);n.default=function(){return l.a.createElement(u.a,null,l.a.createElement(c.a,null),l.a.createElement(r.a,null),l.a.createElement(o.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-news-js-39015b87be5b8d2b8384.js.map
